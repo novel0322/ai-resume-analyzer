@@ -86,3 +86,5 @@ ai-resume-analyzer
 │   ├── package.json
 │   └── vite.config.js
 └── README.md
+<img width="2048" height="1147" alt="274c5014e6c9d3a821e8f656bb129cd3" src="https://github.com/user-attachments/assets/5e6c21f4-2a93-4b8e-baaa-8ead0f570515" />
+
